@@ -13,7 +13,7 @@ La mod che uso a supporto verrà rilasciata a parte e probabilmente avrà una li
 
 se volte fare un blocco che vi sputa oggetti con 0 effetti, dove aprite a raffica i blocchi, beh sappiate che io non sono di quell'idea, io penso che sia giusto mette anche oggetti a raffica, ma debba esserci anche qualche "effetto wow" altrimenti non c'è gusto nello spaccare i blocchi.
 
-eccovi un po di esempi:
+eccovi un po di esempi  (nota, molti di questi esempi non sono aggiornati ma servono solo per dare l'idea):
 
 
 / wither stuff

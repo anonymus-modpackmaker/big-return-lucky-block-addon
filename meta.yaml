@@ -1,0 +1,5 @@
+projectName: "amethyst-lucky-block-java"
+version: "1.21.8"
+dependencies:
+  "lucky":
+  "minecraft":

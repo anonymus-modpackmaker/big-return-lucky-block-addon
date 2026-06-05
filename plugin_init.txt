@@ -1,0 +1,4 @@
+block_id=old_time_lucky_block
+sword_id=old_time_lucky_sword
+bow_id=old_time_lucky_bow
+potion_id=old_time_lucky_potion

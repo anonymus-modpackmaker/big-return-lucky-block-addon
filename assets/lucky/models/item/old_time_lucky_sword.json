@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "lucky:item/old_time_lucky_sword"
+    }
+}

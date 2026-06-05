@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "s": {
+            "item": "minecraft:redstone_dust"
+        },
+        "l": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "c": {
+            "item": "minecraft:gold_ingot"
+        },
+        "b": {
+            "item": "lucky:lucky_block"
+        }
+    },
+    "pattern": [
+        "sls",
+        "cbc",
+        "sls"
+    ],
+    "result": {
+        "item": "lucky:old_time_lucky_block"
+    }
+}

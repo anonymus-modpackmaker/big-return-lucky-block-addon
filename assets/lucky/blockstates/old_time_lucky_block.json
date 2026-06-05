@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "lucky:block/old_time_lucky_block" }
+    }
+}

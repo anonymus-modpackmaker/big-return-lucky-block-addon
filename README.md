@@ -11,6 +11,8 @@
 
 La mod che uso a supporto verrà rilasciata a parte e probabilmente avrà una licenza diversa dato che la sviluppo con mccreator e con vari plugin che hanno varie licenze, inizio con un buona "base vanilla" e poi miglioro il tutto con drop custom.
 
+per ora l'id del blocco è old_time_lucky_block ma forse lo cambierò in futuro, il formato delle texture sono in una versione più vecchia e quindi potrebbero non funzionare, li aggiornerò in questi giorni insieme ai drop "classici rivisitati", volevo darvi qualcosa da vedere senza farvi aspettare una quantità troppo lunga di tempo.
+
 se volte fare un blocco che vi sputa oggetti con 0 effetti, dove aprite a raffica i blocchi, beh sappiate che io non sono di quell'idea, io penso che sia giusto mette anche oggetti a raffica, ma debba esserci anche qualche "effetto wow" altrimenti non c'è gusto nello spaccare i blocchi.
 
 eccovi un po di esempi  (nota, molti di questi esempi non sono aggiornati ma servono solo per dare l'idea):
